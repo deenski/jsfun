@@ -1,3 +1,2 @@
-#jsfun
-a collection of things I am building to help
-teach myself javascript.
+# jsfun
+a collection of things I am building to help myself learn javascript.
